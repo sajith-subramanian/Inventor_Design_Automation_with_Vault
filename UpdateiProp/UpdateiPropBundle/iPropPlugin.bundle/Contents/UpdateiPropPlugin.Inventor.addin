@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Addin Type="Plugin">
+  <ClassId>{A8CF6DF3-11FF-40A7-86E4-B80ECBF8D5E8}</ClassId>
+  <ClientId>{A8CF6DF3-11FF-40A7-86E4-B80ECBF8D5E8}</ClientId>
+  <DisplayName>UpdateiPropPlugin</DisplayName>
+  <Description>Update iProperties</Description>
+  <Assembly>UpdateiPropPlugin.dll</Assembly>
+</Addin>
